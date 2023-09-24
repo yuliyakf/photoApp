@@ -1,0 +1,32 @@
+.name {
+    display: flex;
+    align-self: center;
+    float: left;
+    list-style: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-left: 30px;
+}
+
+@media only screen and (max-width: 830px){
+    .name {
+        font-size: 30px; 
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 460px){
+    .name {
+        font-size: 25px;
+        margin-left: 5px;
+    }
+}
+
+@media only screen and (max-width: 285px){
+    .name {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-left: 2px;
+    }
+}
