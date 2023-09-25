@@ -48,7 +48,7 @@ margin-bottom: 0px;
 }
 
 .navTop :global(.active) {
-    color: rgb(171, 169, 171);
+    color: rgb(123, 122, 123);;
  }
 
 .navTopNames:hover{
@@ -113,7 +113,7 @@ margin-bottom: 0px;
    color: rgb(123, 122, 123);
 }
 .navToolsRight :global(.active) {
-    color: rgb(171, 169, 171);
+    color: rgb(123, 122, 123);
  } 
 .navTools li:hover {
     background-color: rgb(171, 169, 171);
